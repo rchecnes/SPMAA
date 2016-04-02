@@ -1,0 +1,5 @@
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST.Test\bin\Debug\WebApiREST.Test.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST.Test\bin\Debug\WebApiREST.Test.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST.Test\obj\Debug\WebApiREST.Test.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST.Test\obj\Debug\WebApiREST.Test.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST.Test\obj\Debug\WebApiREST.Test.pdb

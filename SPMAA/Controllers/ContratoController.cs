@@ -9,13 +9,12 @@ using Entidades;
 using Newtonsoft.Json;
 using System.Net;
 using System.IO;
+using SPMAA.ResourceAccess;
 
 namespace SPMAA.Controllers
 {
     public class ContratoController : Controller
     {
-        private string conexion = "Data Source=(local); Initial Catalog = ABELINBD; Integrated Security = SSPI; ";
-
         //
         // GET: /Contrato/
         public ActionResult Index()
@@ -32,7 +31,7 @@ namespace SPMAA.Controllers
             bool needConnector = false;
             string connector;
 
-            SqlConnection con = new SqlConnection(conexion);
+            SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
             con.Open();
 
             StringBuilder str = new StringBuilder();
@@ -161,7 +160,7 @@ namespace SPMAA.Controllers
             bool needConnector = false;
             string connector;
 
-            SqlConnection con = new SqlConnection(conexion);
+            SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
             con.Open();
 
             StringBuilder str = new StringBuilder();

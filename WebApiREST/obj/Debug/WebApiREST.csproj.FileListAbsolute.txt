@@ -86,3 +86,4 @@ D:\SPMAA\WebApiREST\bin\es\System.Web.WebPages.Razor.resources.dll
 D:\SPMAA\WebApiREST\obj\Debug\WebApiREST.csprojResolveAssemblyReference.cache
 D:\SPMAA\WebApiREST\obj\Debug\WebApiREST.dll
 D:\SPMAA\WebApiREST\obj\Debug\WebApiREST.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\obj\Debug\WebApiREST.csprojResolveAssemblyReference.cache

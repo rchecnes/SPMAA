@@ -7,13 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Web;
 using System.Web.Mvc;
+using SPMAA.ResourceAccess;
 
 namespace SPMAA.Controllers
 {
     public class PlanificacionController : Controller
     {
-        private string conexion = "Data Source=(local); Initial Catalog = ABELINBD; Integrated Security = SSPI; ";
-
         //
         // GET: /Planificacion/
         public ActionResult Index()
@@ -29,7 +28,7 @@ namespace SPMAA.Controllers
             bool needConnector = false;
             string connector;
 
-            SqlConnection con = new SqlConnection(conexion);
+            SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
             con.Open();
 
             StringBuilder str = new StringBuilder();
@@ -78,7 +77,6 @@ namespace SPMAA.Controllers
             var jWriter = JsonConvert.SerializeObject(oListaPlanificaciones);
             return Json(jWriter, JsonRequestBehavior.AllowGet);
         }
-
 
 
         public ActionResult Nuevo()

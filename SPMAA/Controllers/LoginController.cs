@@ -5,14 +5,12 @@ using System.Web;
 using System.Web.Mvc;
 using Entidades;
 using System.Data.SqlClient;
-
+using SPMAA.ResourceAccess;
 
 namespace SPMAA.Controllers
 {
     public class LoginController : Controller
     {
-        private string conexion = "Data Source=(local); Initial Catalog = ABELINBD; Integrated Security = SSPI; ";
-
         //
         // GET: /Login/
         public ActionResult Index()
@@ -26,7 +24,7 @@ namespace SPMAA.Controllers
         {
             string nombre = "";
 
-            SqlConnection con = new SqlConnection(conexion);
+            SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
             con.Open();
 
             string sql = "select * from Usuarios u INNER JOIN Roles r ON u.Rol=r.Codigo where Nombre=@nombre and Password=@password";
@@ -41,9 +39,6 @@ namespace SPMAA.Controllers
                     if (resp.Read())
                     {
                         {
-                            
-                            
-
                             if (Nombre.ToLower() == resp["Nombre"].ToString().ToLower() && Password.ToLower() == resp["Password"].ToString().ToLower())
                             {
                                 nombre = resp["nombre"].ToString().ToLower();
