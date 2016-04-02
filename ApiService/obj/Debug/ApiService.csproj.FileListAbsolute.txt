@@ -1,0 +1,17 @@
+D:\SPMAA\ApiService\obj\Debug\ApiService.csprojResolveAssemblyReference.cache
+D:\SPMAA--copia\ApiService\obj\Debug\ApiService.csprojResolveAssemblyReference.cache
+D:\SPMAA--copia\ApiService\bin\ApiService.dll.config
+D:\SPMAA--copia\ApiService\bin\ApiService.dll
+D:\SPMAA--copia\ApiService\bin\ApiService.pdb
+D:\SPMAA--copia\ApiService\bin\Entidades.dll
+D:\SPMAA--copia\ApiService\bin\Entidades.pdb
+D:\SPMAA--copia\ApiService\obj\Debug\ApiService.dll
+D:\SPMAA--copia\ApiService\obj\Debug\ApiService.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\bin\ApiService.dll.config
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\bin\ApiService.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\bin\ApiService.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\bin\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\bin\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\obj\Debug\ApiService.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\obj\Debug\ApiService.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService\obj\Debug\ApiService.pdb

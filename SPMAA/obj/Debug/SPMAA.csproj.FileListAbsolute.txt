@@ -1,0 +1,382 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\SPMAA.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\SPMAA.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\SPMAA.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Owin.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.Razor.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\obj\Debug\SPMAA.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\obj\Debug\SPMAA.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\SPMAA\SPMAA\obj\Debug\SPMAA.csprojResolveAssemblyReference.cache
+D:\SPMAA\SPMAA\bin\SPMAA.dll.config
+D:\SPMAA\SPMAA\bin\SPMAA.dll
+D:\SPMAA\SPMAA\bin\SPMAA.pdb
+D:\SPMAA\SPMAA\bin\Antlr3.Runtime.dll
+D:\SPMAA\SPMAA\bin\Entidades.dll
+D:\SPMAA\SPMAA\bin\EntityFramework.dll
+D:\SPMAA\SPMAA\bin\EntityFramework.SqlServer.dll
+D:\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SPMAA\SPMAA\bin\Microsoft.Web.Infrastructure.dll
+D:\SPMAA\SPMAA\bin\Newtonsoft.Json.dll
+D:\SPMAA\SPMAA\bin\Owin.dll
+D:\SPMAA\SPMAA\bin\System.Web.Helpers.dll
+D:\SPMAA\SPMAA\bin\System.Web.Mvc.dll
+D:\SPMAA\SPMAA\bin\System.Web.Optimization.dll
+D:\SPMAA\SPMAA\bin\System.Web.Razor.dll
+D:\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.dll
+D:\SPMAA\SPMAA\bin\System.Web.WebPages.dll
+D:\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.dll
+D:\SPMAA\SPMAA\bin\WebGrease.dll
+D:\SPMAA\SPMAA\bin\Entidades.pdb
+D:\SPMAA\SPMAA\bin\System.Web.Helpers.xml
+D:\SPMAA\SPMAA\bin\System.Web.Mvc.xml
+D:\SPMAA\SPMAA\bin\System.Web.Optimization.xml
+D:\SPMAA\SPMAA\bin\System.Web.Razor.xml
+D:\SPMAA\SPMAA\bin\System.Web.WebPages.xml
+D:\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.xml
+D:\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.xml
+D:\SPMAA\SPMAA\bin\Newtonsoft.Json.xml
+D:\SPMAA\SPMAA\bin\Antlr3.Runtime.pdb
+D:\SPMAA\SPMAA\bin\EntityFramework.xml
+D:\SPMAA\SPMAA\bin\EntityFramework.SqlServer.xml
+D:\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SPMAA\SPMAA\bin\es\System.Web.Helpers.resources.dll
+D:\SPMAA\SPMAA\bin\es\System.Web.Mvc.resources.dll
+D:\SPMAA\SPMAA\bin\es\System.Web.Optimization.resources.dll
+D:\SPMAA\SPMAA\bin\es\System.Web.Razor.resources.dll
+D:\SPMAA\SPMAA\bin\es\System.Web.WebPages.resources.dll
+D:\SPMAA\SPMAA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\SPMAA\SPMAA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\SPMAA\SPMAA\bin\es\EntityFramework.resources.dll
+D:\SPMAA\SPMAA\bin\es\EntityFramework.SqlServer.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\SPMAA\SPMAA\obj\Debug\SPMAA.csprojResolveAssemblyReference.cache
+D:\SPMAA\SPMAA\obj\Debug\SPMAA.dll
+D:\SPMAA\SPMAA\obj\Debug\SPMAA.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\SPMAA.dll.config
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\SPMAA.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\SPMAA.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Antlr3.Runtime.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\EntityFramework.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\EntityFramework.SqlServer.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Web.Infrastructure.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Newtonsoft.Json.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Owin.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Helpers.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Mvc.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Optimization.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Razor.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.WebPages.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\WebGrease.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Helpers.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Mvc.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Optimization.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.Razor.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.WebPages.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Newtonsoft.Json.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Antlr3.Runtime.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\EntityFramework.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\EntityFramework.SqlServer.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.Helpers.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.Mvc.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.Optimization.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.Razor.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.WebPages.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\EntityFramework.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\obj\Debug\SPMAA.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\obj\Debug\SPMAA.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\obj\Debug\SPMAA.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\SPMAA\bin\Newtonsoft.Json.pdb
+D:\SPMAA\SPMAA\bin\Newtonsoft.Json.pdb
+D:\SPMAA--copia\SPMAA\bin\SPMAA.dll.config
+D:\SPMAA--copia\SPMAA\bin\SPMAA.dll
+D:\SPMAA--copia\SPMAA\bin\SPMAA.pdb
+D:\SPMAA--copia\SPMAA\bin\Antlr3.Runtime.dll
+D:\SPMAA--copia\SPMAA\bin\Entidades.dll
+D:\SPMAA--copia\SPMAA\bin\EntityFramework.dll
+D:\SPMAA--copia\SPMAA\bin\EntityFramework.SqlServer.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Google.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Web.Infrastructure.dll
+D:\SPMAA--copia\SPMAA\bin\Newtonsoft.Json.dll
+D:\SPMAA--copia\SPMAA\bin\Owin.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.Helpers.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.Mvc.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.Optimization.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.Razor.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.WebPages.Deployment.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.WebPages.dll
+D:\SPMAA--copia\SPMAA\bin\System.Web.WebPages.Razor.dll
+D:\SPMAA--copia\SPMAA\bin\WebGrease.dll
+D:\SPMAA--copia\SPMAA\bin\Entidades.pdb
+D:\SPMAA--copia\SPMAA\bin\System.Web.Helpers.xml
+D:\SPMAA--copia\SPMAA\bin\System.Web.Mvc.xml
+D:\SPMAA--copia\SPMAA\bin\System.Web.Optimization.xml
+D:\SPMAA--copia\SPMAA\bin\System.Web.Razor.xml
+D:\SPMAA--copia\SPMAA\bin\System.Web.WebPages.xml
+D:\SPMAA--copia\SPMAA\bin\System.Web.WebPages.Deployment.xml
+D:\SPMAA--copia\SPMAA\bin\System.Web.WebPages.Razor.xml
+D:\SPMAA--copia\SPMAA\bin\Newtonsoft.Json.pdb
+D:\SPMAA--copia\SPMAA\bin\Newtonsoft.Json.xml
+D:\SPMAA--copia\SPMAA\bin\Antlr3.Runtime.pdb
+D:\SPMAA--copia\SPMAA\bin\EntityFramework.xml
+D:\SPMAA--copia\SPMAA\bin\EntityFramework.SqlServer.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Google.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SPMAA--copia\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.Helpers.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.Mvc.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.Optimization.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.Razor.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.WebPages.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\EntityFramework.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\EntityFramework.SqlServer.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.Security.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\SPMAA--copia\SPMAA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\SPMAA--copia\SPMAA\obj\Debug\SPMAA.csprojResolveAssemblyReference.cache
+D:\SPMAA--copia\SPMAA\obj\Debug\SPMAA.dll
+D:\SPMAA--copia\SPMAA\obj\Debug\SPMAA.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\SPMAA.dll.config
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\SPMAA.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\SPMAA.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Antlr3.Runtime.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\EntityFramework.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\EntityFramework.SqlServer.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Web.Infrastructure.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Newtonsoft.Json.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Owin.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Helpers.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Mvc.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Optimization.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Razor.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.WebPages.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\WebGrease.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Helpers.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Mvc.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Optimization.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.Razor.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.WebPages.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.WebPages.Deployment.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\System.Web.WebPages.Razor.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Newtonsoft.Json.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Newtonsoft.Json.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Antlr3.Runtime.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\EntityFramework.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\EntityFramework.SqlServer.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Google.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.Helpers.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.Mvc.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.Optimization.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.Razor.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.WebPages.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\EntityFramework.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\obj\Debug\SPMAA.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\obj\Debug\SPMAA.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\obj\Debug\SPMAA.pdb

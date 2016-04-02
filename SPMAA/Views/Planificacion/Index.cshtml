@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="page-header">Consultar Planificación</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="RazonSocial">Razón Social:</label>
+            <div class="col-md-10">
+                <select id="cliente" name="cliente" class="form-control">
+                    <option>Seleccionar</option>
+                    <option>Empresa 1</option>
+                    <option>Empresa 2</option>
+                    <option>Empresa 3</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Estado">Estado:</label>
+            <div class="col-md-10">
+                <select class="form-control">
+                    <option value="">Todos</option>
+                    <option value="vigente">Vigente</option>
+                    <option value="vencido">Vencido</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <a class="btn btn-default" href="">Buscar..</a>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre contrato</th>
+            <th>Nro Contrato</th>
+            <th>Fecha Término contrato</th>
+            <th>Técnico encargado</th>
+            <th>Estado</th>
+            <th>Operación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mantenimiento</td>
+            <td>001</td>
+            <td>12/01/2015</td>
+            <td>Jorco Botton</td>
+            <td>Concluido</td>
+            <td>
+                <a class="btn btn-default" href="/planificacion/nuevo">Ver</a>
+                <a class="btn btn-default" href="/planificacion/nuevo">Editar</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Servicio de reparación</td>
+            <td>002</td>
+            <td>01/01/2016</td>
+            <td>Ricardo Arenas</td>
+            <td>Vigente</td>
+            <td>
+                <a class="btn btn-default" href="/planificacion/nuevo">Ver</a>
+                <a class="btn btn-default" href="/planificacion/nuevo">Editar</a>
+            </td>
+        </tr>
+    </tbody>
+</table>

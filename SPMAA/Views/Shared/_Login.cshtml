@@ -1,0 +1,105 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <script src="~/js/jquery.min.js" type="text/javascript"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        body {
+            max-width: 100% !important;
+        }
+
+        #logo-group {
+            margin: 7px;
+        }
+
+        .smart-form .row section {
+            margin-bottom: 0px !important;
+        }
+
+        .smart-form .col {
+            padding-bottom: 4px !important;
+        }
+
+        .smart-form .tooltip {
+            opacity: 1 !important;
+            background: 0 !important;
+        }
+
+        .well {
+            max-width: 400px !important;
+            margin: auto !important;
+        }
+
+        #content {
+            /*border-bottom: 1px solid #F87F6B !important;*/
+        }
+
+        .login {
+            text-align: center !important;
+            margin: auto !important;
+        }
+
+        .align-center {
+            text-align: center !important;
+        }
+
+        #header {
+            border-bottom: 2px solid #F42909;
+            background: #fff;
+            overflow: hidden;
+            height: 62px;
+            margin: 0;
+            padding: 0 13px 0 0;
+            position: relative;
+            z-index: 20;
+        }
+
+        #content-login {
+            padding: 10px 14px;
+            position: relative;
+        }
+
+        #login-footer {
+            border-top: 1px solid #F87F6B;
+            padding: 2px 5px;
+            font-size: 12px;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        .logo-group h1{
+            font-size: 20px;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body class="smart-style-scotiabank">
+    <header id="header">
+        <div class="logo-group">
+            <h1><span class="logo">Servicio Preventivo del Sistema de agua y alarma</span></h1>
+        </div>
+    </header>
+    <div id="content-login">
+        @RenderBody()
+    </div>
+    <div id="login-footer" class="right">
+        <span>Powered by Centro de Información - TI&SSPMAA</span>
+    </div>
+</body>
+</html>
+
+

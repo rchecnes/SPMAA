@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="page-header">Listado de informe técnico</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="RazonSocial">Código:</label>
+            <div class="col-md-10">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="codigo" name="codigo" type="text" value="">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="RazonSocial">Fecha de Informe:</label>
+            <div class="col-md-10">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="fechaini" name="fechaini" type="text" value="">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="fechafin" name="fechafin" type="text" value="">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="RazonSocial">Cliente:</label>
+            <div class="col-md-10">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="cliente" name="cliente" type="text" value="">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="RazonSocial">Contrato:</label>
+            <div class="col-md-10">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="contrato" name="contrato" type="text" value="">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Estado">Estado:</label>
+            <div class="col-md-10">
+                <select id="estado" name="estado" class="form-control">
+                    <option>Todos</option>
+                    <option>Aprobado</option>
+                    <option>Rechazado</option>
+                    <option>Pendiente</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<a class="btn btn-default" id="buscar" href=#>Buscar</a>
+
+<div class="row">
+    <div class="col-lg-12">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Fecha</th>
+                    <th>Detalle</th>
+                    <th>Observaciones</th>
+                    <th>Estado</th>
+
+                    <th colspan="3"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>0001</td>
+                    <td>13/01/2016</td>
+                    <td>Se realizaron las actividades sin problemas</td>
+                    <td>Ninguna</td>
+                    <td>Aprobado</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+<a class="btn btn-default" id="consolidar" href=#>Consolidar</a>
+<a class="btn btn-default" id="nuevo" href="/informetecnico/nuevo">Nuevo</a>

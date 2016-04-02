@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "Nuevo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Registrar Planificación</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Codigo">Contrato:</label>
+            <div class="col-md-10">
+                <select id="contrato" name="contrato" class="form-control">
+                    <option>Seleccionar</option>
+                    <option>Contrato 001</option>
+                    <option>Contrato 002</option>
+                    <option>Contrato 003</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Codigo">Cliente:</label>
+            <div class="col-md-10">
+                <select id="cliente" name="cliente" class="form-control">
+                    <option>Seleccionar</option>
+                    <option>Empresa 1</option>
+                    <option>Empresa 2</option>
+                    <option>Empresa 3</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Codigo">Fecha inicio contrato:</label>
+            <div class="col-md-10">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="detalle" name="detalle" type="text" value="">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Codigo">Fecha término contrato:</label>
+            <div class="col-md-10">
+                <input class="form-control" data-val="true" data-val-required="El campo Nombre de usuario es obligatorio." id="detalle" name="detalle" type="text" value="">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Codigo">Técnico a cargo:</label>
+            <div class="col-md-10">
+                <select id="técnico" name="tecnico" class="form-control">
+                    <option>Seleccionar</option>
+                    <option>Juan Perez</option>
+                    <option>Rodrigo Cuba</option>
+                    <option>Roberto Tirado</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="form-group">
+            <label class="col-md-2 control-label" for="Codigo">Tipo de trabajo:</label>
+            <div class="col-md-10">
+                <select id="cliente" class="form-control">
+                    <option>Seleccionar</option>
+                    <option>Mant. preventivo</option>
+                    <option>Recarga de extintores</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+ <a class="btn btn-default" id="registrar" href="/planificacion">Registrar</a>
+ <a class="btn btn-default" id="cancelar" href="/planificacion">Cancelar</a>
+ <a class="btn btn-default" id="solicitar" href="/planificacion">Solicitar</a>
+

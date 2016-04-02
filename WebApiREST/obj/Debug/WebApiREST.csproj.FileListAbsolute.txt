@@ -1,0 +1,88 @@
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\WebApiREST.dll.config
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\WebApiREST.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\WebApiREST.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Antlr3.Runtime.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Microsoft.Practices.Unity.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Microsoft.Web.Infrastructure.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Newtonsoft.Json.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Net.Http.Formatting.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Helpers.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Http.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Http.WebHost.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Mvc.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Optimization.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Razor.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.WebPages.Deployment.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.WebPages.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.WebPages.Razor.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\WebGrease.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Newtonsoft.Json.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Net.Http.Formatting.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Helpers.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Http.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Http.WebHost.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Mvc.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Optimization.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.Razor.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.WebPages.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.WebPages.Deployment.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\System.Web.WebPages.Razor.xml
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\Antlr3.Runtime.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.Helpers.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.Http.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.Mvc.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.Optimization.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.Razor.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.WebPages.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\obj\Debug\WebApiREST.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\WebApiREST\obj\Debug\WebApiREST.pdb
+D:\SPMAA\WebApiREST\bin\WebApiREST.dll.config
+D:\SPMAA\WebApiREST\bin\WebApiREST.dll
+D:\SPMAA\WebApiREST\bin\WebApiREST.pdb
+D:\SPMAA\WebApiREST\bin\Antlr3.Runtime.dll
+D:\SPMAA\WebApiREST\bin\Entidades.dll
+D:\SPMAA\WebApiREST\bin\Microsoft.Web.Infrastructure.dll
+D:\SPMAA\WebApiREST\bin\Newtonsoft.Json.dll
+D:\SPMAA\WebApiREST\bin\System.Net.Http.Formatting.dll
+D:\SPMAA\WebApiREST\bin\System.Web.Helpers.dll
+D:\SPMAA\WebApiREST\bin\System.Web.Http.dll
+D:\SPMAA\WebApiREST\bin\System.Web.Http.WebHost.dll
+D:\SPMAA\WebApiREST\bin\System.Web.Mvc.dll
+D:\SPMAA\WebApiREST\bin\System.Web.Optimization.dll
+D:\SPMAA\WebApiREST\bin\System.Web.Razor.dll
+D:\SPMAA\WebApiREST\bin\System.Web.WebPages.Deployment.dll
+D:\SPMAA\WebApiREST\bin\System.Web.WebPages.dll
+D:\SPMAA\WebApiREST\bin\System.Web.WebPages.Razor.dll
+D:\SPMAA\WebApiREST\bin\WebGrease.dll
+D:\SPMAA\WebApiREST\bin\Entidades.pdb
+D:\SPMAA\WebApiREST\bin\Newtonsoft.Json.xml
+D:\SPMAA\WebApiREST\bin\System.Net.Http.Formatting.xml
+D:\SPMAA\WebApiREST\bin\System.Web.Helpers.xml
+D:\SPMAA\WebApiREST\bin\System.Web.Http.xml
+D:\SPMAA\WebApiREST\bin\System.Web.Http.WebHost.xml
+D:\SPMAA\WebApiREST\bin\System.Web.Mvc.xml
+D:\SPMAA\WebApiREST\bin\System.Web.Optimization.xml
+D:\SPMAA\WebApiREST\bin\System.Web.Razor.xml
+D:\SPMAA\WebApiREST\bin\System.Web.WebPages.xml
+D:\SPMAA\WebApiREST\bin\System.Web.WebPages.Deployment.xml
+D:\SPMAA\WebApiREST\bin\System.Web.WebPages.Razor.xml
+D:\SPMAA\WebApiREST\bin\Antlr3.Runtime.pdb
+D:\SPMAA\WebApiREST\bin\es\System.Net.Http.Formatting.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.Helpers.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.Http.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.Http.WebHost.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.Mvc.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.Optimization.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.Razor.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.WebPages.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\SPMAA\WebApiREST\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\SPMAA\WebApiREST\obj\Debug\WebApiREST.csprojResolveAssemblyReference.cache
+D:\SPMAA\WebApiREST\obj\Debug\WebApiREST.dll
+D:\SPMAA\WebApiREST\obj\Debug\WebApiREST.pdb

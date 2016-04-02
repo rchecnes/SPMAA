@@ -1,0 +1,114 @@
+﻿@{
+    ViewBag.Title = "Asignar Técnico";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="page-header">Asignar Técnico</h2>
+
+<section class="filtro">
+    <p class="filtro-busqueda"><span>Filtros de Busqueda</span></p>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label class="col-md-2 control-label" for="Nombre">Nombre:</label>
+                <div class="col-md-10">
+                    <input class="form-control" data-val="true" id="CodigoContrato" name="CodigoContrato" type="hidden" value='@Request.Params["codigoContrato"]'>
+                    <input class="form-control" data-val="true" id="Nombre" name="Nombre" type="text" value="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p class="group-botones">
+        <button type="button" id="btn-buscar" class="btn btn-sm btn-primary">Buscar</button>
+        <button type="button" id="btn-limpiar" class="btn btn-sm btn-default">Limpiar</button>
+    </p>
+</section>
+
+<table class="table table-striped table-bordered" id="listado_tecnico"></table>
+
+<p>
+    <button type="button" id="btn-guardar" class="btn btn-sm btn-primary">Guardar</button>
+    <button type="button" id="btn-cancelar" class="btn btn-sm btn-default">Cancelar</button>
+</p>
+
+<script>
+
+    $(document).ready(function () {
+
+
+        listarTecnico = function () {
+
+            var tecnicos = getJson('@Url.Action("GetListadoTecnicos")', {
+                nombre: $("#Nombre").val()
+            });
+            //console.log(tecnicos);
+            var html = '<thead><tr><th>Nombre</th><th>Num. contratos asignados</th><th>Asignar(seleccionar un técnico)</th></tr></thead>';
+            html += '<tbody>';
+            for (var i = 0; i < tecnicos.length; i++) {
+
+                //var codigo = contratos[i]['Cliente'].RazonSocial;
+
+                html += '<tr>';
+                html += '<td>' + tecnicos[i].Nombre + '</td>';
+                html += '<td>' + tecnicos[i].CantidadContratos + '</td>';
+
+                if (tecnicos[i].CantidadContratos <= 12) {
+                    html += '<td><input type="radio" class="radio_buttom" value="' + tecnicos[i].Codigo + '" id="codigo_tecnico" name="codigo_tecnico"></td>';
+                } else {
+                    html += '<td>---</td>';
+                }
+
+                html += '</tr>';
+            }
+
+            html += '</tbody>';
+
+            $("#listado_tecnico").html(html);
+
+        }
+
+        listarTecnico();
+
+        $("#btn-limpiar").on('click', function (e) {
+            e.preventDefault();
+            $('section.filtro').find('input[type="text"], select').each(function () {
+                if ($(this).is(':disabled') != true) {
+                    $(this).val("");
+                }
+            })
+        });
+
+        $("#btn-buscar").on("click", function () {
+            listarTecnico();
+        });
+
+        $("#btn-guardar").on("click", function () {
+            var CodigoTecnico = "";
+            var CodigoContrato = $("#CodigoContrato").val();
+
+            $("#listado_tecnico td:nth-child(3) input[type='radio']").each(function () {
+
+                if ($(this).is(':checked'))
+                {
+                    CodigoTecnico = $(this).val();
+                }
+         
+            });
+
+            //console.log(CodigoTecnico + "--" + CodigoContrato);
+            $.ajax({
+                url: '@Url.Action("grabarTecnicoContrato")',
+                data: { CodigoTecnico: CodigoTecnico, CodigoContrato: CodigoContrato },
+                type: 'POST',
+                success: function (data) {
+                    window.location = "/contrato";
+                }
+            });
+        });
+
+        $("#btn-cancelar").on("click", function () {
+            window.location = "/contrato";
+        });
+    })
+</script>

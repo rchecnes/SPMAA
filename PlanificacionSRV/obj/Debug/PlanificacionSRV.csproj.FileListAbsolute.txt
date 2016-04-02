@@ -1,0 +1,8 @@
+D:\SPMAA\PlanificacionSRV\bin\PlanificacionSRV.dll.config
+D:\SPMAA\PlanificacionSRV\bin\PlanificacionSRV.dll
+D:\SPMAA\PlanificacionSRV\bin\PlanificacionSRV.pdb
+D:\SPMAA\PlanificacionSRV\bin\Entidades.dll
+D:\SPMAA\PlanificacionSRV\bin\Entidades.pdb
+D:\SPMAA\PlanificacionSRV\obj\Debug\PlanificacionSRV.csprojResolveAssemblyReference.cache
+D:\SPMAA\PlanificacionSRV\obj\Debug\PlanificacionSRV.dll
+D:\SPMAA\PlanificacionSRV\obj\Debug\PlanificacionSRV.pdb

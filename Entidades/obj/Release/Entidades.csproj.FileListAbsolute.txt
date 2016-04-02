@@ -1,0 +1,5 @@
+D:\SPMAA\Entidades\bin\Release\Entidades.dll
+D:\SPMAA\Entidades\bin\Release\Entidades.pdb
+D:\SPMAA\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+D:\SPMAA\Entidades\obj\Release\Entidades.dll
+D:\SPMAA\Entidades\obj\Release\Entidades.pdb

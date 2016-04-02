@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="~/js/jquery.min.js" type="text/javascript"></script>
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    <script src="~/js/jquery.min.js" type="text/javascript"></script>
+    <script src="~/js/utils.js" type="text/javascript"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-default navbar-fixed-top" style="margin-bottom: 0;">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">SPMAA</a>
+            </div>
+            <ul class="nav navbar-top-links navbar-right">
+                <!-- /.dropdown -->
+                @{
+                    //@Html.Partial("_LoginPartial")
+                }
+                <li>
+                    <span class="usuario">Bienvenido: @Session["nombre_usuario"]</span>
+                </li>
+                <li class="dropdown">
+
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <!--<i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>-->
+                        <span>Cerras sesión</span>
+                    </a>
+                      
+                    <ul class="dropdown-menu dropdown-user">
+                        <li>
+                            <a href="#"><i class="fa fa-user fa-fw"></i> User Profile</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <a href="/login/index"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        </li>
+                    </ul>
+                    <!-- /.dropdown-user -->
+                </li>
+                <!-- /.dropdown -->
+            </ul>
+            <div class="navbar-default sidebar" role="navigation">
+                <div class=" sidebar-nav navbar-collapse collapse">
+                    <ul class="nav in" id="side-menu">
+                        <li class="sidebar-search">
+                            <div class="input-group custom-search-form">
+                                <button type="button" class="btn btn-warning">@Session["rol_usuario"]</button>
+                                
+                            </div>
+                            <!-- /input-group -->
+                        </li>
+                           
+                        <li>@Html.ActionLink("Contrato", "Index", "contrato")</li>
+                        <li>@Html.ActionLink("Planificacion", "Index", "planificacion")</li>
+                        <li>@Html.ActionLink("Informe Técnico", "Index", "informetecnico")</li>
+                          
+                    </ul>
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+        </nav>
+        <div id="page-wrapper" style="min-height: 582px;">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="contenido-principal">
+                        @RenderBody()
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+    
+
+    <!--<div class="container body-content">
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
+        </footer>
+    </div>-->
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+

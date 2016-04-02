@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Login.cshtml";
+}
+
+<div class="row">
+    <div class="well">
+        <div class="row align-center">
+            <h4><strong>Ingreso al Sistema</strong></h4>
+            <p>Usuario: richard; Password: 00005</p>
+        </div><br />
+        <div class="row">
+            <div class="smart-form">
+                <div class="login">
+                    <section class="col col-10">
+                        <label class="input">
+                            <!--event: { keypress: function () { $root.accesoUsuario(this) } }--->
+                            <input class="form-control" data-val="true" id="usuario" name="usuario" type="text" value="" placeholder="Usuario">
+                        </label>
+                    </section>
+                    <section class="col col-10">
+                        <label class="input">
+                            <input class="form-control" data-val="true" id="password" name="password" type="password" value="" placeholder="Password">
+                        </label>
+                    </section>
+                    <section class="col col-10">
+
+                        <button type="button" id="ingresar" name="ingresar" class="btn btn-sm btn-primary" >
+                            Ingresar
+                        </button>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        $("#ingresar").on("click", function () {
+            
+            var usuario = $("#usuario");
+            var password = $("#password");
+
+            viewModel ={
+                Nombre: usuario.val(),
+                Password: password.val()
+            }
+
+            $.ajax({
+                url: '@Url.Action("validarUsuario")',
+                data: viewModel,
+                type: 'GET',
+                datatype: 'json',
+                cache: false,
+                async: false,
+                success: function (data) {
+                    if(data != ""){
+                       window.location.href = '@Url.Content("~/contrato")';
+                    } else {
+                        alert("Usuario o Password incorrecto");
+                    }
+                }
+            });
+
+
+  
+        });
+        
+    });
+
+</script>
+<!--if (usuario.val() == "admin" && password.val() == "admin") {
+                console.log("entra");
+                window.location.href = '@Url.Content("~/contrato")';
+            } else {
+                console.log("no entra");
+            }-->

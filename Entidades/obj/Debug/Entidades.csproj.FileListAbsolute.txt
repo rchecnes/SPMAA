@@ -1,0 +1,19 @@
+D:\SPMAA\Entidades\bin\Debug\Entidades.dll
+D:\SPMAA\Entidades\bin\Debug\Entidades.pdb
+D:\SPMAA\Entidades\obj\Debug\Entidades.dll
+D:\SPMAA\Entidades\obj\Debug\Entidades.pdb
+D:\SPMAA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\Entidades\bin\Debug\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\Entidades\bin\Debug\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\Entidades\obj\Debug\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\SPMAA\Entidades\obj\Debug\Entidades.pdb
+D:\SPMAA--copia\Entidades\bin\Debug\Entidades.dll
+D:\SPMAA--copia\Entidades\bin\Debug\Entidades.pdb
+D:\SPMAA--copia\Entidades\obj\Debug\Entidades.dll
+D:\SPMAA--copia\Entidades\obj\Debug\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\bin\Debug\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\bin\Debug\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\obj\Debug\Entidades.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\obj\Debug\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
