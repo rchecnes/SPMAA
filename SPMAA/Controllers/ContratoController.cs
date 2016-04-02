@@ -142,8 +142,29 @@ namespace SPMAA.Controllers
         [HttpPost]
         public String grabarTecnicoContrato(string CodigoTecnico, string CodigoContrato)
         {
-            //implementar el actualizar tecnico en el contrato.
-            return "";
+            string respuesta = string.Empty;
+            string str = "UPDATE [Contratos] SET [Tecnico] = @Tecnico WHERE [Codigo] = @Codigo";
+
+            try
+            {
+                using (SqlConnection con = new SqlConnection(DABase.cnsServicioODP))
+                {
+                    con.Open();
+                    using (SqlCommand com = new SqlCommand(str, con))
+                    {
+                        com.Parameters.Add(new SqlParameter("@Tecnico", CodigoTecnico));
+                        com.Parameters.Add(new SqlParameter("@Codigo", CodigoContrato));
+                        com.ExecuteNonQuery();
+                        respuesta = "Tecnico asignado.";
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                respuesta = ex.Message;
+            }
+
+            return respuesta;
         }
 
         //GET: /consolidar informe

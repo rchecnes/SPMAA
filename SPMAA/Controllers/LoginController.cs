@@ -19,7 +19,6 @@ namespace SPMAA.Controllers
         }
 
         [HttpGet]
-        //public JsonResult validarUsuario(string Nombre, string Password)
         public JsonResult validarUsuario(string Nombre, string Password)
         {
             string nombre = "";
@@ -54,7 +53,6 @@ namespace SPMAA.Controllers
             }
 
             return Json(nombre, JsonRequestBehavior.AllowGet);
-            //return RedirectToAction("Index", "Home");
         }
     }
 }
