@@ -10,6 +10,7 @@ using Newtonsoft.Json;
 using System.Net;
 using System.IO;
 using SPMAA.ResourceAccess;
+using System.Web.Script.Serialization;
 
 namespace SPMAA.Controllers
 {
@@ -121,7 +122,7 @@ namespace SPMAA.Controllers
         {
             nombre = (string.IsNullOrEmpty(nombre)) ? "laralalalala" : nombre;
             string resultado;
-            var url = "http://localhost:47475/api/WSSentTecnico/" + nombre;
+            var url = "http://localhost:47475/api/WSSentTecnico/" + nombre + "//";
             var webrequest = (HttpWebRequest)System.Net.WebRequest.Create(url);
             using (var response = webrequest.GetResponse())
             using (var reader = new StreamReader(response.GetResponseStream()))
@@ -133,7 +134,9 @@ namespace SPMAA.Controllers
             }
             else
             {
-                //Manejar de alguna manera el error (mostrar una alerta o algo)
+                int i1 = resultado.IndexOf("DescRetorno") + 14;
+                int i2 = resultado.IndexOf("DTOTecnico") - 4;
+                resultado = resultado.Substring(i1, i2 - i1);
             }
             return Json(resultado, JsonRequestBehavior.AllowGet);
         }
