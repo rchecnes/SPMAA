@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:42414/Planificacion.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Entidades" />
+  <xs:element name="ObtenerPlanificaciones">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Entidades" minOccurs="0" name="oFiltro" nillable="true" type="q1:Planificaciones" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerPlanificacionesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Entidades" minOccurs="0" name="ObtenerPlanificacionesResult" nillable="true" type="q2:ArrayOfPlanificaciones" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

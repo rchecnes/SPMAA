@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Entidades" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Entidades" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Planificaciones">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CodigoContrato" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CodigoTrabajo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Contrato" nillable="true" type="tns:Contratos" />
+      <xs:element minOccurs="0" name="Trabajo" nillable="true" type="tns:Trabajos" />
+      <xs:element minOccurs="0" name="Visita" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Planificaciones" nillable="true" type="tns:Planificaciones" />
+  <xs:complexType name="Contratos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cliente" nillable="true" type="tns:Clientes" />
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CodigoCliente" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CodigoTecnico" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Fin" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FinString" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Inicio" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="InicioString" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Tecnico" nillable="true" type="tns:Tecnicos" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Contratos" nillable="true" type="tns:Contratos" />
+  <xs:complexType name="Clientes">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RazonSocial" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Clientes" nillable="true" type="tns:Clientes" />
+  <xs:complexType name="Tecnicos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CantidadContratos" type="xs:int" />
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Tecnicos" nillable="true" type="tns:Tecnicos" />
+  <xs:complexType name="Trabajos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Trabajos" nillable="true" type="tns:Trabajos" />
+  <xs:complexType name="ArrayOfPlanificaciones">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Planificaciones" nillable="true" type="tns:Planificaciones" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPlanificaciones" nillable="true" type="tns:ArrayOfPlanificaciones" />
+</xs:schema>

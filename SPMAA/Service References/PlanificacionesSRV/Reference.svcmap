@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="063a1659-8d4a-4e25-ae57-3c4595df3073" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:42414/Planificacion.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Planificacion.wsdl" MetadataType="Wsdl" ID="6bf854ef-bd4c-4289-ab29-e990ca80496c" SourceId="1" SourceUrl="http://localhost:42414/Planificacion.svc?wsdl" />
+    <MetadataFile FileName="Planificacion.xsd" MetadataType="Schema" ID="c61548a9-1741-4a60-928f-7ba119603ec8" SourceId="1" SourceUrl="http://localhost:42414/Planificacion.svc?xsd=xsd2" />
+    <MetadataFile FileName="Planificacion1.xsd" MetadataType="Schema" ID="5c30876c-a5e7-4777-9a57-f7a2c987b7e0" SourceId="1" SourceUrl="http://localhost:42414/Planificacion.svc?xsd=xsd0" />
+    <MetadataFile FileName="Planificacion.disco" MetadataType="Disco" ID="92e6107f-e7a9-4a97-ade8-aedefd0f3be5" SourceId="1" SourceUrl="http://localhost:42414/Planificacion.svc?disco" />
+    <MetadataFile FileName="Planificacion2.xsd" MetadataType="Schema" ID="08793208-4753-46c1-ada7-7b54cb944395" SourceId="1" SourceUrl="http://localhost:42414/Planificacion.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

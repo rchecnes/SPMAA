@@ -16,3 +16,4 @@ D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades
 D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\bin\Debug\Entidades.pdb
 D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\obj\Debug\Entidades.dll
 D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\obj\Debug\Entidades.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

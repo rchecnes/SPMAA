@@ -60,14 +60,14 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="PlanificacionSRV.svc" />
+    <Content Include="Planificacion.svc" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PlanificacionSRV.svc.cs">
-      <DependentUpon>PlanificacionSRV.svc</DependentUpon>
+    <Compile Include="IPlanificacion.cs" />
+    <Compile Include="Planificacion.svc.cs">
+      <DependentUpon>Planificacion.svc</DependentUpon>
     </Compile>
-    <Compile Include="IPlanificacionSRV.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

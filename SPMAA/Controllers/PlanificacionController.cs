@@ -8,6 +8,7 @@ using System.Text;
 using System.Web;
 using System.Web.Mvc;
 using SPMAA.ResourceAccess;
+using SPMAA.PlanificacionesSRV;
 
 namespace SPMAA.Controllers
 {
@@ -20,61 +21,83 @@ namespace SPMAA.Controllers
             return View();
         }
 
+        //[HttpGet]
+        //public JsonResult GetListadoPlanificaciones(string contrato, string tecnico)
+        //{
+        //    List<Planificaciones> oListaPlanificaciones = new List<Planificaciones>();
+        //    Planificaciones oPlanificaciones = null;
+        //    bool needConnector = false;
+        //    string connector;
+
+        //    SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
+        //    con.Open();
+
+        //    StringBuilder str = new StringBuilder();
+        //    str.Append("SELECT C.Codigo, C.Fin, T.Nombre, C.Estado ");
+        //    str.Append("FROM Planificaciones P ");
+        //    str.Append("INNER JOIN Contratos C ON C.Codigo = P.Contrato ");
+        //    str.Append("INNER JOIN Tecnicos T ON T.Codigo = C.Tecnico ");
+        //    if (!String.IsNullOrEmpty(contrato))
+        //    {
+        //        connector = (needConnector) ? "AND " : "WHERE ";
+        //        needConnector = true;
+        //        str.Append(connector).Append("C.Codigo = @Contrato ");
+        //    }
+        //    if (!String.IsNullOrEmpty(tecnico))
+        //    {
+        //        connector = (needConnector) ? "AND " : "WHERE ";
+        //        needConnector = true;
+        //        str.Append(connector).Append("T.Nombre = @Tecnico ");
+        //    }
+
+        //    using (SqlCommand com = new SqlCommand(str.ToString(), con))
+        //    {
+        //        if (!String.IsNullOrEmpty(contrato))
+        //            com.Parameters.Add(new SqlParameter("@Contrato", contrato));
+        //        if (!String.IsNullOrEmpty(tecnico))
+        //            com.Parameters.Add(new SqlParameter("@Tecnico", tecnico));
+
+        //        using (SqlDataReader resp = com.ExecuteReader())
+        //        {
+        //            while (resp.Read())
+        //            {
+        //                oPlanificaciones = new Planificaciones();
+        //                oPlanificaciones.Contrato = new Contratos();
+        //                oPlanificaciones.Contrato.Tecnico = new Tecnicos();
+
+        //                oPlanificaciones.Contrato.Codigo = Convert.ToString(resp["Codigo"]);
+        //                oPlanificaciones.Contrato.Fin = Convert.ToDateTime(resp["Fin"]);
+        //                oPlanificaciones.Contrato.Estado = Convert.ToString(resp["Estado"]);
+        //                oPlanificaciones.Contrato.Tecnico.Nombre = Convert.ToString(resp["Nombre"]);
+
+        //                oListaPlanificaciones.Add(oPlanificaciones);
+        //            }
+        //        }
+        //    }
+
+        //    var jWriter = JsonConvert.SerializeObject(oListaPlanificaciones);
+        //    return Json(jWriter, JsonRequestBehavior.AllowGet);
+        //}
+
         [HttpGet]
         public JsonResult GetListadoPlanificaciones(string contrato, string tecnico)
         {
-            List<Planificaciones> oListaPlanificaciones = new List<Planificaciones>();
-            Planificaciones oPlanificaciones = null;
-            bool needConnector = false;
-            string connector;
+            PlanificacionClient proxy = new PlanificacionClient();
 
-            SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
-            con.Open();
+            List<Planificaciones> oListPlanificacion = new List<Planificaciones>();
+            Planificaciones[] oListPlanificacionProxy;
+            Planificaciones oFiltro = new Planificaciones();
+            oFiltro.Contrato = new Contratos();
+            oFiltro.Contrato.Codigo = contrato;
+            oFiltro.Contrato.CodigoTecnico = tecnico;
+            oListPlanificacionProxy = proxy.ObtenerPlanificaciones(oFiltro);
 
-            StringBuilder str = new StringBuilder();
-            str.Append("SELECT C.Codigo, C.Fin, T.Nombre, C.Estado ");
-            str.Append("FROM Planificaciones P ");
-            str.Append("INNER JOIN Contratos C ON C.Codigo = P.Contrato ");
-            str.Append("INNER JOIN Tecnicos T ON T.Codigo = C.Tecnico ");
-            if (!String.IsNullOrEmpty(contrato))
+            foreach (Planificaciones oPlanificacion in oListPlanificacionProxy)
             {
-                connector = (needConnector) ? "AND " : "WHERE ";
-                needConnector = true;
-                str.Append(connector).Append("C.Codigo = @Contrato ");
-            }
-            if (!String.IsNullOrEmpty(tecnico))
-            {
-                connector = (needConnector) ? "AND " : "WHERE ";
-                needConnector = true;
-                str.Append(connector).Append("T.Nombre = @Tecnico ");
+                oListPlanificacion.Add(oPlanificacion);
             }
 
-            using (SqlCommand com = new SqlCommand(str.ToString(), con))
-            {
-                if (!String.IsNullOrEmpty(contrato))
-                    com.Parameters.Add(new SqlParameter("@Contrato", contrato));
-                if (!String.IsNullOrEmpty(tecnico))
-                    com.Parameters.Add(new SqlParameter("@Tecnico", tecnico));
-
-                using (SqlDataReader resp = com.ExecuteReader())
-                {
-                    while (resp.Read())
-                    {
-                        oPlanificaciones = new Planificaciones();
-                        oPlanificaciones.Contrato = new Contratos();
-                        oPlanificaciones.Contrato.Tecnico = new Tecnicos();
-
-                        oPlanificaciones.Contrato.Codigo = Convert.ToString(resp["Codigo"]);
-                        oPlanificaciones.Contrato.Fin = Convert.ToDateTime(resp["Fin"]);
-                        oPlanificaciones.Contrato.Estado = Convert.ToString(resp["Estado"]);
-                        oPlanificaciones.Contrato.Tecnico.Nombre = Convert.ToString(resp["Nombre"]);
-
-                        oListaPlanificaciones.Add(oPlanificaciones);
-                    }
-                }
-            }
-
-            var jWriter = JsonConvert.SerializeObject(oListaPlanificaciones);
+            var jWriter = JsonConvert.SerializeObject(oListPlanificacion);
             return Json(jWriter, JsonRequestBehavior.AllowGet);
         }
 

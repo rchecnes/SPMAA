@@ -1,0 +1,6 @@
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService.Test\bin\Debug\ApiService.Test.dll.config
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService.Test\bin\Debug\ApiService.Test.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService.Test\bin\Debug\ApiService.Test.pdb
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService.Test\obj\Debug\ApiService.Test.csprojResolveAssemblyReference.cache
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService.Test\obj\Debug\ApiService.Test.dll
+D:\Manuel\UPC\Desarrollo para Sistemas Distribuidos\New\Proyecto\SPMAA\ApiService.Test\obj\Debug\ApiService.Test.pdb

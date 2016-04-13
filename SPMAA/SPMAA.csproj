@@ -175,6 +175,11 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResourceAccess\DABase.cs" />
+    <Compile Include="Service References\PlanificacionesSRV\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -191,6 +196,7 @@
     <Content Include="js\utils.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Properties\DataSources\Entidades.Planificaciones.datasource" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -203,6 +209,13 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <None Include="Service References\PlanificacionesSRV\Planificacion.disco" />
+    <None Include="Service References\PlanificacionesSRV\configuration91.svcinfo" />
+    <None Include="Service References\PlanificacionesSRV\configuration.svcinfo" />
+    <None Include="Service References\PlanificacionesSRV\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -240,6 +253,16 @@
     <Content Include="Views\Planificacion\Nuevo.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Shared\_Login.cshtml" />
+    <None Include="Service References\PlanificacionesSRV\Planificacion.wsdl" />
+    <None Include="Service References\PlanificacionesSRV\Planificacion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\PlanificacionesSRV\Planificacion1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\PlanificacionesSRV\Planificacion2.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -259,6 +282,9 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\PlanificacionesSRV\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
