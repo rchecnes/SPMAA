@@ -78,6 +78,54 @@ namespace SPMAA.Controllers
             return Json(jWriter, JsonRequestBehavior.AllowGet);
         }
 
+        [HttpPost]
+        public JsonResult RegistrarPlanificacion(string contrato, DateTime visita, string trabajo)
+        {
+            string resultado = string.Empty;
+            int ultimoCodigoPlanificaciones = 0;
+
+            try
+            {
+                SqlConnection con = new SqlConnection(DABase.cnsServicioODP);
+                con.Open();
+
+                StringBuilder str = new StringBuilder();
+                str.Append("SELECT TOP 1 Codigo FROM [Planificaciones] ORDER BY Codigo DESC ");
+
+                using (SqlCommand com = new SqlCommand(str.ToString(), con))
+                {
+                    using (SqlDataReader resp = com.ExecuteReader())
+                    {
+                        if (resp.Read())
+                        {
+                            ultimoCodigoPlanificaciones = Convert.ToInt32(resp["Codigo"]);
+                            ultimoCodigoPlanificaciones = ultimoCodigoPlanificaciones + 1;
+                        }
+                    }
+                }
+
+                str = new StringBuilder();
+                str.Append("INSERT INTO [Planificaciones] ([Codigo], [Contrato], [Visita], [Trabajo]) ");
+                str.Append("VALUES (@Codigo, @Contrato, @Visita, @Trabajo)");
+
+                using (SqlCommand com = new SqlCommand(str.ToString(), con))
+                {
+                    com.Parameters.Add(new SqlParameter("@Codigo", ultimoCodigoPlanificaciones.ToString()));
+                    com.Parameters.Add(new SqlParameter("@Contrato", contrato));
+                    com.Parameters.Add(new SqlParameter("@Visita", visita));
+                    com.Parameters.Add(new SqlParameter("@Trabajo", trabajo));
+                    com.ExecuteNonQuery();
+                    resultado = "Planificación registrada.";
+                }
+            }
+            catch (System.Exception ex)
+            {
+                resultado = ex.Message;
+            }
+
+            var jWriter = JsonConvert.SerializeObject(resultado);
+            return Json(jWriter, JsonRequestBehavior.AllowGet);
+        }
 
         public ActionResult Nuevo()
         {
